@@ -1,0 +1,21 @@
+# BERT
+
+📂 config/                    # Configuration files for the model
+├── 📄 default.yaml
+
+📂 data/                      # Data handling and preprocessing
+├── 📄 dataset.py
+
+📂 models/                    # Model components
+├── 📄 embedding.py
+├── 📄 multi_head_attention.py
+├── 📄 feed_forward_network.py
+├── 📄 encoder.py
+├── 📄 BERT.py
+
+📂 trainers/                  # Training-related scripts
+├── 📄 trainer.py
+
+📂 scripts/                   # Miscellaneous scripts (e.g., training, inference)
+├── 📄 train.py
+├── 📄 mask_predit.py
