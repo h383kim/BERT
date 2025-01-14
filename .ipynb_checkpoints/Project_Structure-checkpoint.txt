@@ -18,4 +18,4 @@
 
 📂 scripts/                   # Miscellaneous scripts (e.g., training, inference)
 ├── 📄 train.py
-├── 📄 mask_predit.py
+├── 📄 mask_predict.py
